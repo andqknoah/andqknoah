@@ -52,5 +52,4 @@ I'm a passionate **DevOps Engineer/SRE** with experience in **building scalable 
 
 ## You can find me on Social at 📬
 
-- **[LinkedIn]**(https://www.linkedin.com/in/an-do-quoc-khanh-%E9%87%91-87b78b240/)
-- **[Twitter]**(https://twitter.com/MediJQKA)
+- **[LinkedIn]**(https://www.linkedin.com/in/andqknoah)
